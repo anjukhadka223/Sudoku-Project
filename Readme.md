@@ -43,10 +43,9 @@ Instructor provided guidelines/ details are available in `/instructions`. Review
 
 Here are the members of the project group:
 
-- [Gaurab Chhetri](https://github.com/gauravfs-14)
-- [Samar Ranjit](https://github.com/samarranjit)
-- [Amul Poudel](https://github.com/Amul-Byte)
-- [Sudip Adhikari](https://github.com/sudip9809)
+- Anju Khadka
+- Hasina Ghimire 
+- Jyoti Gurung
 
 ## Instructor
 
