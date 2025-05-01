@@ -1,4 +1,4 @@
-# The Scorpion Lord Sudoku Project
+# The Second Sister Sudoku Project
 
 The Scorpion Lord Sudoku Project is a comprehensive Sudoku game developed as part of the CS2308 course in Spring 2025.
 
@@ -8,11 +8,11 @@ To install and run the project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/gauravfs-14/TheScorpionLordSudokuProjectCS2308SPRING2025.git
+   git clone https://github.com/anjukhadka223/The-Second-Sister-SudokuProjectCS2308SPRING2025.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd TheScorpionLordSudokuProjectCS2308SPRING2025
+   cd The-Second-Sister-SudokuProjectCS2308SPRING2025
    ```
 3. Open the project in your preferred IDE and build the solution.
 
